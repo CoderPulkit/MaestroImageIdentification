@@ -1,0 +1,53 @@
+.heading{
+    font-size: 30px;
+    width:80%;
+    margin:0px;
+    background-color: rgb(0, 0, 73);
+    color: white;
+}
+
+.header_div{
+    float: none;
+    background-color:cyan;
+    padding: 10px;
+    border-radius: 5px;
+    color:black; 
+    margin-bottom: 10px;
+}
+.header2_div{
+font-size: 20px;
+}
+.heading:hover{
+ color: oldlace;
+}
+
+body{
+  background-color:#657878;
+}
+p{
+font-size: 30px;
+width: 30%;
+margin:0px;
+background-color: rgb(0, 0, 73);
+color: white;
+border-radius: 05px;
+}
+.copyright_footer{
+    position: fixed;
+    color: navy;
+    background-color: oldlace;
+    bottom: 0;
+    width: 100%;
+    line-height:3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid navy;
+    border-radius: 5px;
+    margin-top: 170px;
+    background-color: oldlace;
+    margin-bottom: 50px;
+}
+html{
+    scroll-behavior: smooth;
+}
